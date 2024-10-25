@@ -1,4 +1,5 @@
 # 👀 Customer-Engagement-Platform
+Notion Doc: https://www.notion.so/CUSTOMER-ENGAGEMENT-PLATFORM-0a3dc694aaea47528a991ce6e7ae5b3f?pvs=4
 
 > **User Engagement:**
 > 
